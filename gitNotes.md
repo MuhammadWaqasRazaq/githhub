@@ -6,7 +6,6 @@ git --version
 
 
 
-
 ## 3 stages
  - working directory
  - staging area
